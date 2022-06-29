@@ -6,11 +6,11 @@ image: ./Building-a-customer-api-weekly-banner.png
 description: Learn how to build a public API for customers or partners
 ---
 
-Planning to build a new public customer or partner API but not sure where to start your research? Connect with fellow developers and nail development of your new API by joining our meetup on [Zoom](https://zuplo.link/3wKTTGx), "Building a Customer API".
+Planning to build a new public customer or partner API but not sure where to start your research?
 
-On June 9, 2022 at 3pm ET/12pm PT we'll be joined by Utsav Shah of fast growing startup Vanta (and host of the [Software at Scale](https://www.softwareatscale.dev/) podcast). He'll share his experience building a customer API and challenges when implementing rate limiting. Then we'll have an open discussion on implementing rate limiting and exposing APIs to customers and partners.
+On June 9, 2022 we were joined by Utsav Shah of fast growing startup Vanta (and host of the [Software at Scale](https://www.softwareatscale.dev/) podcast). Utsav shared the recent customer API he built, why Kanye West is behind his extensive rate limiting policies, and his process of onboarding users to a new API. 
 
-**[Register Here](https://zuplo.link/3wKTTGx)**
+**[Youtube](https://youtu.be/pk-JIjitRxg)**
 
 ![Utsav Shah](./utsav_shah.png)
 
@@ -22,8 +22,4 @@ Utsav Shah is a software engineer at Vanta and host of the [Software at Scale](h
 
 Our mission at Vanta is to be a layer of trust on top of cloud services, to secure the internet, increase trust in software companies, and keep consumer data safe. Think of us as your automated security and compliance expert.
 
-## Building a Customer API
-
-At 3pm ET/12pm PT every Thursday, Zuplo hosts a 1-hour round-table discussion virtually (Zoom) to help developers plan for and build their public customer or partner APIs. We feature one attendee each week who has recently built a public customer or partner API and who will share how they approached the process and what they learned, then stick around to answer questions and discuss. This chat is limited to 25 spaces per week to keep the conversation flowing and fruitful. We'll start with a Q&A with the featured guest and then have an open discussion immediately following.
-
-Have more questions, check out our event [FAQ](https://zuplo.notion.site/Building-a-Customer-API-Weekly-Chat-hosted-by-Zuplo-cfa5d37dfbcc4683a0bd12c400d5df35).
+If you're working on, or preparing to build, a public customer or partner API, Zuplo is API Management for developers that doesn’t require weeks of engineering resources or an army of consultants. Visit [zuplo.com/docs/getting-started](https://zuplo.com/docs/getting-started) to start your 14-day free trial today.
